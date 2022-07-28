@@ -1,9 +1,9 @@
-const stdnum = 10;
-    function f() {
-        stdnum = 9
-        console.log(a)
+const stda1 = 10;
+    function f3() {
+        stda1 = 9
+        console.log(stda1)
     }
-    f();
+    f3();
 
 
     // output

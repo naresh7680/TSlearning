@@ -1,11 +1,11 @@
-let av = 10
+let stda2 = 10;
  
     // It is not allowed
-    let av = 10
+    let stda2 = 10;
  
     // It is allowed
-    av = 10
-console.log(av);
+    stda2 = 10;
+console.log(stda2);
 
 
 // output
