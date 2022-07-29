@@ -1,0 +1,68 @@
+1 => TypeScript supports some simple types (primitives) you may know.
+
+    There are three main primitives in JavaScript and TypeScript.
+
+    boolean - true or false values
+    number - whole numbers and floating point values
+    string - text values like "TypeScript Rocks"
+
+2 => Type Assignment
+    When creating a variable, there are two main ways TypeScript assigns a type:
+
+    1) Explicit
+    2) Implicit
+    In both examples below firstName is of type string
+
+    1) Explict Type :- Explicit type assignment are easier to read and more intentional.
+
+        Explicit - writing out the type:
+        let firstName: string = "Dylan";
+
+    2) Implicit Type :- Implicit type assignment are shorter, faster to type, and often used when developing and testing.
+
+        Implicit - TypeScript will "guess" the type, based on the assigned value:
+        let firstName = "Dylan";
+3 => Error In Type Assignment
+    TypeScript will throw an error if data types do not match.
+
+ex) Example
+    let firstName: string = "Dylan"; // type string
+    firstName = 33; // attempts to re-assign the value to a different type
+
+4 => Type: any
+    any is a type that disables type checking and effectively allows all types to be used.
+
+    The example below does not use any and will throw an error:
+
+ex) Example without any
+    let u = true;
+    u = "string"; // Error: Type 'string' is not assignable to type 'boolean'.
+    Math.round(u); // Error: Argument of type 'boolean' is not assignable to parameter of type 'number'.
+
+5 => Setting any to the special type any disables type checking:
+
+ex) Example with any
+    let v: any = true;
+    v = "string"; // no error as it can be "any" type
+    Math.round(v); // no error as it can be "any" type
+
+6 => Type: unknown
+    unknown is a similar, but safer alternative to any.
+
+    TypeScript will prevent unknown types from being used, as shown in the below example:
+
+ex) let w: unknown = 1;
+    w = "string"; // no error
+
+7 => Type: never
+    never effectively throws an error whenever it is defined.
+
+    let x: never = true; // Error: Type 'boolean' is not assignable to type 'never'.
+
+8 => Type: undefined & null
+    undefined and null are types that refer to the JavaScript primitives undefined and null respectively.
+
+    let y: undefined = undefined;
+    let z: null = null;
+
+9
