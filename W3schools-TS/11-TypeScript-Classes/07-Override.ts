@@ -31,9 +31,9 @@ class Square1 extends Rectangle2 {
     return `Square1[width=${this.width}]`;
   }
 }
-const mySq1 = new Square(20);
+const mySq11 = new Square1(20);
 
-console.log(mySq1.toString());
+console.log(mySq11.toString());
 
 // output
 // Square[width=20]

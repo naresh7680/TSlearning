@@ -2,10 +2,10 @@ class Person {
     name: string;
   }
         
-  const person = new Person();
-  person.name = "Jane";
+  const person11 = new Person();
+  person11.name = "Jane";
   
-  console.log(person);
+  console.log(person11);
 
 //   output
 // Person { name: 'Jane' }
