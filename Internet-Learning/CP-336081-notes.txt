@@ -1,0 +1,37 @@
+
+1)	What is the internet?
+		The internet is the world’s most popular computer network. 
+		It began as an academic research project in 1969, and became a global commercial network in the 1990s. 
+		Today it is used by more than 2 billion people around the world.
+		
+2)	Where is the internet?
+		The internet has three basic parts:
+
+		i)	The last mile	===>	Currently about 60 percent of residential internet connections in the United States are provided by cable TV companies such as Comcast and Time Warner.
+		ii)	Data centers	and	====>	For example, Google, Facebook, and Microsoft have all constructed vast data centers in Iowa.
+		iii)	The backbone	===>	consists of long-distance networks — mostly on fiber optic cables — that carry data between data centers and consumers.
+		
+3)	Who created the internet?
+		The internet began as ARPANET, an academic research network that was funded by the military’s Advanced Research Projects Agency (ARPA, now DARPA). 
+		The project was led by Bob Taylor, an ARPA administrator, and the network was built by the consulting firm of Bolt, Beranek and Newman. 
+		It began operations in 1969.
+		
+		in 1973, software engineers Vint Cerf and Bob Kahn began work on the next generation of networking standards for the ARPANET. 
+		These standards, known as TCP/IP, became the foundation of the modern internet. 
+		ARPANET switched to using TCP/IP on January 1, 1983.
+		
+		During the 1980s, funding for the internet shifted from the military to the National Science Foundation. 
+		The NSF funded the long-distance networks that served as the internet’s backbone from 1981 until 1994. 
+		In 1994, the Clinton Administration turned control over the internet backbone to the private sector.
+		
+4)	What’s an IP address?
+		Internet Protocol addresses are numbers that computers use to identify each other on the internet. 
+		For example, an IP address for vox.com is 216.146.46.10.
+
+5)	How does wireless internet work?
+		In its early years, internet access was carried over physical cables. But more recently, wireless internet access has become increasingly common.
+
+		There are two basic types of wireless internet access: 
+			i) wifi and 
+			ii) cellular. 
+		
