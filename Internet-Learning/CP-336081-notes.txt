@@ -29,7 +29,7 @@
 		For example, an IP address for vox.com is 216.146.46.10.
 
 5)	How does wireless internet work?
-		In its early years, internet access was carried over physical cables. But more recently, wireless internet access has become increasingly common.
+		In its early years, s access was carried over physical cables. But more recently, wireless internet access has become increasingly common.
 
 		There are two basic types of wireless internet access: 
 			i) wifi and 
