@@ -7,8 +7,8 @@
 2)	Where is the internet?
 		The internet has three basic parts:
 
-		i)	The last mile	===>	Currently about 60 percent of residential internet connections in the United States are provided by cable TV companies such as Comcast and Time Warner.
-		ii)	Data centers	and	====>	For example, Google, Facebook, and Microsoft have all constructed vast data centers in Iowa.
+		i)		The last mile	===>	Currently about 60 percent of residential internet connections in the United States are provided by cable TV companies such as Comcast and Time Warner.
+		ii)		Data centers	and	====>	For example, Google, Facebook, and Microsoft have all constructed vast data centers in Iowa.
 		iii)	The backbone	===>	consists of long-distance networks — mostly on fiber optic cables — that carry data between data centers and consumers.
 		
 3)	Who created the internet?
